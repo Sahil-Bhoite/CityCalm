@@ -14,6 +14,12 @@ CityCalm is a React-based web application that offers immersive virtual walking 
   - Autoplay toggle
 - **Responsive Design**: Elegant, minimalist interface
 
+### 🎥 Video Demo 
+ 
+https://github.com/user-attachments/assets/55152dd1-e426-44b7-836c-de3bbf608791
+
+
+
 ### 🌐 Live Demo
 
 🔗 [Visit CityCalm](https://citycalm.vercel.app)
@@ -55,12 +61,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 📞 Contact
 
-Developed by Sahil Bhoite
-- LinkedIn: [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/)
+Developed by Sahil Bhoite and Maheshwari Jadhav
+- LinkedIn:
+  [Sahil Bhoite](https://www.linkedin.com/in/sahil-bhoite/)
+  [Maheshwari Jadhav](https://www.linkedin.com/in/maheshwari-jadhav)
 
-### 📄 License
 
-[Add your license information here]
 
 ---
 
