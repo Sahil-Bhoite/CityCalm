@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/55152dd1-e426-44b7-836c-de3bbf608791
 
 ### 🌐 Live Demo
 
-🔗 [Visit CityCalm](https://citycalm.vercel.app)
+🔗 [Visit CityCalm](https://city-calm.vercel.app)
 
 ### 🚀 Tech Stack
 
