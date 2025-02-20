@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/55152dd1-e426-44b7-836c-de3bbf608791
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/CityCalm.git
+   git clone https://github.com/Sahil-Bhoite/CityCalm
    cd CityCalm
    ```
 
